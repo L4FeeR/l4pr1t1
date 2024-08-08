@@ -3,9 +3,9 @@ Another try of a flutter based app!
 
 Here's the preview,
 
-![](preview.webm)
+![Video](preview.webm)
 
-
+<use `raw` to download the preview video!>
 ----
 
 Target :
